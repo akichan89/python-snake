@@ -4,9 +4,6 @@ pycrypto==2.6.1
 pycups==1.9.73
 pygame==1.9.6
 Pygments==2.7.1
-python-apt==1.6.5+ubuntu0.3
-python-dateutil==2.6.1
-python-debian==0.1.32
 pytz==2018.3
 pyxdg==0.25
 PyYAML==3.12
@@ -18,7 +15,6 @@ simplejson==3.13.2
 six==1.11.0
 system-service==0.3
 systemd-python==234
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.22
