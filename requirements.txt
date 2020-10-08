@@ -13,7 +13,6 @@ requests-unixsocket==0.1.5
 SecretStorage==2.3.1
 simplejson==3.13.2
 six==1.11.0
-ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.22
 usb-creator==0.3.3
